@@ -1,0 +1,95 @@
+.tag{
+    background: linear-gradient(to right,red,blue,green);
+    height:100px;
+    border-radius: 2px;
+    padding: 2px;
+    margin: 2px;
+    border-radius:30px;
+    
+
+}
+
+
+.tag ul{
+    
+        display: flex;
+        list-style: none;
+      text-align: center;  
+
+}
+.tag ul>li{
+    font-size: xx-large;
+            flex: auto;
+            
+}
+.tag1{
+    background-color: orangered;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    
+    margin-right: 150px;
+    margin-left: 150px;
+
+    border-radius:30px;
+    flex: auto;
+    
+
+    
+}
+.tag1 ul{
+    list-style: none;
+    text-align: center;
+    display: flex;
+}
+.tag1 ul>li{
+    font-size: xx-large;
+    flex: auto;
+    
+    border: 2px solid black;
+    margin: auto;
+    margin-block: 4px;
+    border-radius: 30px;
+
+}
+.it{
+    background-color:green;
+    border-radius: 30px;
+    
+height:100px;
+margin: 40px;
+text-align: center;
+}
+.tag2{
+    text-align: center;
+    margin:20px;
+}
+.tag3 input{
+    background-color: greenyellow;
+    color: black;
+    font-size: x-large;
+    text-align: center;
+    border-radius: 30px;
+display: flex;
+margin-left:50px;
+
+    
+ 
+
+
+}
+.tag3{
+    display: flex;
+    
+    
+}
+.hi{
+    background-color: black;
+    color: red;
+    border: black;
+    font-size:xx-large;
+    border-radius:20%;
+}
+
+
+
